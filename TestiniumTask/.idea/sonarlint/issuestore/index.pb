@@ -1,0 +1,29 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+R
+"src/test/java/tests/HoverTest.java,b/8/b841d35151e5f8f0e383fc33a2e721f647d29ddb
+S
+#src/test/java/tests/SearchTest.java,9/0/90c143da99fc2385fc8b8685da14b1d3f72060cc
+T
+$src/test/java/tests/ProductTest.java,6/7/6758d9ae4296bcf00ad1ba3eeaf71b17d241ede2
+R
+"src/test/java/pages/HoverPage.java,1/e/1ed1c9c17088b635da28495e94b9d5a5526ba3b3
+T
+$src/test/java/pages/ProductPage.java,d/3/d3d1f0b73a437016b8e297cf4d10e792b2c6b213
+S
+#src/test/java/pages/SearchPage.java,9/d/9d262a728f2e510b5a82fdb800d57886a24a4b49
+S
+#src/test/java/tests/BasketTest.java,9/8/985b57830ec7dcad4e6c974a8f2c1409a63c3945
+R
+"src/test/java/tests/LoginTest.java,6/7/675323397230e5cf5f9cac5768ee941fa8c4987b
+S
+#src/test/java/pages/BasketPage.java,d/a/dac8b46ab3c7967a371131e3e7d747217f2cc720
+P
+ src/test/java/csv/CSVConfig.java,e/3/e3eb1ccbff033448a829c55220586f2ce0aa3935
+R
+"src/test/java/pages/LoginPage.java,2/f/2febc867dad266b12f3cf09596e572e0dcf37dbf
+9
+	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+Q
+!src/test/java/tests/BaseTest.java,f/7/f76255b3e7b0a3a09fc110123ff89e0e8e0bb5c4
